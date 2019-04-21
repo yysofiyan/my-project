@@ -16,3 +16,5 @@
 * php bin/console server:run
 
 [DOC](https://symfony.com/doc/master/setup.html) 
+
+:3rd_place_medal:
