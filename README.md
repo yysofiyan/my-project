@@ -17,4 +17,4 @@
 
 [DOC](https://symfony.com/doc/master/setup.html) 
 
-:3rd_place_medal:
+:3rd_place_medal: :3rd_place_medal: :3rd_place_medal:
